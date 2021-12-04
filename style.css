@@ -1,0 +1,34 @@
+.jumbotron {
+  padding-top: 2rem;
+  align-items: center;
+  background-attachment: fixed;
+}
+
+.carousel {
+  background-color: #0077b6;
+  padding-left: 15rem;
+  padding-right: 15rem;
+  padding-top: 7rem;
+}
+.carousel-control-prev {
+  padding-left: 0rem;
+  padding-right: 2rem;
+  padding-top: 5rem;
+  margin-left: 6rem;
+}
+.carousel-control-next {
+  padding-left: 2rem;
+  padding-right: 0rem;
+  padding-top: 5rem;
+  margin-right: 7rem;
+}
+
+#project {
+  background-color: #0096c7;
+  align-items: center;
+}
+
+#project.row {
+  align-content: center;
+  align-items: center;
+}
